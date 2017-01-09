@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/12/2016, 16:31:21
+    Author     : Cogeti
+*/
+#Campos{
+    position: absolute;
+    top:20%;
+    left: 40%;
+    border-style: ridge;
+    padding: 5px;   
+}
+#titulo{
+    position: absolute;
+    left: 30%;
+    
+}
